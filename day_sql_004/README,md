@@ -1,0 +1,26 @@
+# Day 4 - MySQL Practice
+
+## Task 1: Create Table
+Create a table named `customers` with:
+- customer_id (INT, Primary Key)
+- customer_name (VARCHAR)
+- city (VARCHAR)
+- age (INT)
+
+## Task 2: Insert Data
+Insert sample customer records.
+
+## Task 3: UPDATE Statement
+- Update city for a specific customer.
+- Increase age by 1 for customers from Delhi.
+
+## Task 4: DELETE Statement
+Delete a customer record using WHERE condition.
+
+## Task 5: ALTER TABLE
+Add a new column `email` to the customers table.
+
+## Learning Outcome
+- UPDATE
+- DELETE
+- ALTER TABLE
